@@ -1,0 +1,36 @@
+#!/usr/bin/env bash
+# ─── Bonfyre Pages App Hook ──────────────────────────────────────────────────
+set -euo pipefail
+
+BONFYRE_BIN="${BONFYRE_BIN:-$HOME/.local/bin}"
+export PATH="$BONFYRE_BIN:$PATH"
+
+log() { printf "\033[0;33m[bonfyre]\033[0m %s\n" "$1"; }
+err() { printf "\033[0;31m[bonfyre]\033[0m %s\n" "$1" >&2; }
+
+require_bin() {
+  for b in "$@"; do
+    command -v "$b" >/dev/null 2>&1 || { err "Missing: $b (run 'make install' in bonfyre-oss)"; return 1; }
+  done
+}
+
+MSG_FILE="$1"
+COMMIT_SOURCE="${2:-}"
+[ "$COMMIT_SOURCE" = "merge" ] && exit 0
+
+AUDIO=$(git diff --cached --name-only -- 'input/*.wav' 'input/*.mp3' 'input/*.m4a' 2>/dev/null | wc -l | tr -d ' ')
+TEXT=$(git diff --cached --name-only -- 'input/*.txt' 'input/*.md' 2>/dev/null | wc -l | tr -d ' ')
+SITE=$(git diff --cached --name-only -- 'site/' 2>/dev/null | wc -l | tr -d ' ')
+ARTS=$(git diff --cached --name-only -- 'artifacts/' 2>/dev/null | wc -l | tr -d ' ')
+
+[ "$AUDIO" -eq 0 ] && [ "$TEXT" -eq 0 ] && [ "$SITE" -eq 0 ] && exit 0
+
+PREFIX="[atlas]"
+PARTS=()
+[ "$AUDIO" -gt 0 ] && PARTS+=("${AUDIO} audio")
+[ "$TEXT" -gt 0 ] && PARTS+=("${TEXT} text")
+[ "$ARTS" -gt 0 ] && PARTS+=("${ARTS} artifacts")
+[ "$SITE" -gt 0 ] && PARTS+=("${SITE} pages")
+
+SUMMARY=$(IFS=', '; echo "${PARTS[*]}")
+echo "$PREFIX $SUMMARY" > "$MSG_FILE"
