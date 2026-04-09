@@ -1,56 +1,2802 @@
 [
   {
-    "id": "demo-memory-atlas-a",
-    "file": "2024-11-porch-note.md",
+    "id": "memory-kitchen-holiday-dinner-1998-001",
+    "file": "holiday dinner at the kitchen — 1998",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "Memory links a late-night porch conversation with two recurring themes: wanting slower mornings and building things that feel humane instead of extractive. Related notes point to product direction, neighborhood belonging, and a recurring image of warm light through old windows.",
+    "brief": "This memory links grandmother, the kitchen, and holiday dinner from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
     "tags": [
-      "belonging",
-      "product-direction",
-      "reflection"
+      "kitchen",
+      "holiday dinner",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, grandmother, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2004-002",
+    "file": "holiday dinner at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and holiday dinner from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, grandmother, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2011-003",
+    "file": "holiday dinner at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and holiday dinner from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, grandmother, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2017-004",
+    "file": "holiday dinner at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and holiday dinner from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, grandmother, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-1998-005",
+    "file": "holiday dinner at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and holiday dinner from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, uncle ray, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2004-006",
+    "file": "holiday dinner at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and holiday dinner from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, uncle ray, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2011-007",
+    "file": "holiday dinner at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and holiday dinner from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, uncle ray, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2017-008",
+    "file": "holiday dinner at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and holiday dinner from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, uncle ray, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-1998-009",
+    "file": "holiday dinner at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and holiday dinner from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, older sister, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2004-010",
+    "file": "holiday dinner at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and holiday dinner from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, older sister, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2011-011",
+    "file": "holiday dinner at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and holiday dinner from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, older sister, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2017-012",
+    "file": "holiday dinner at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and holiday dinner from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, older sister, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-1998-013",
+    "file": "holiday dinner at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and holiday dinner from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, neighbor tom, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2004-014",
+    "file": "holiday dinner at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and holiday dinner from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, neighbor tom, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2011-015",
+    "file": "holiday dinner at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and holiday dinner from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, neighbor tom, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2017-016",
+    "file": "holiday dinner at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and holiday dinner from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, neighbor tom, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-1998-017",
+    "file": "holiday dinner at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and holiday dinner from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "1998"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "travel note, family memory, linked events",
-    "whyItMatters": "One memory becomes part of a connected search surface.",
-    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, coach lewis, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
   },
   {
-    "id": "demo-memory-atlas-b",
-    "file": "Related 2024-11-porch-note.md",
+    "id": "memory-kitchen-holiday-dinner-2004-018",
+    "file": "holiday dinner at the kitchen — 2004",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "This memory links coach lewis, the kitchen, and holiday dinner from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
     "tags": [
-      "belonging",
-      "product-direction",
-      "related"
+      "kitchen",
+      "holiday dinner",
+      "2004"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One memory becomes part of a connected search surface.",
-    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, coach lewis, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
   },
   {
-    "id": "demo-memory-atlas-c",
-    "file": "Follow-up 2024-11-porch-note.md",
+    "id": "memory-kitchen-holiday-dinner-2011-019",
+    "file": "holiday dinner at the kitchen — 2011",
     "time": "Demo dataset",
     "status": "complete",
-    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "brief": "This memory links coach lewis, the kitchen, and holiday dinner from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
     "tags": [
-      "belonging",
-      "product-direction",
-      "follow-up"
+      "kitchen",
+      "holiday dinner",
+      "2011"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One memory becomes part of a connected search surface.",
-    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
-    "searchOutputs": []
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, coach lewis, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-holiday-dinner-2017-020",
+    "file": "holiday dinner at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and holiday dinner from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "holiday dinner",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, holiday dinner, coach lewis, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-1998-021",
+    "file": "storm cleanup at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and storm cleanup from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, grandmother, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2004-022",
+    "file": "storm cleanup at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and storm cleanup from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, grandmother, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2011-023",
+    "file": "storm cleanup at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and storm cleanup from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, grandmother, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2017-024",
+    "file": "storm cleanup at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and storm cleanup from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, grandmother, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-1998-025",
+    "file": "storm cleanup at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and storm cleanup from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, uncle ray, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2004-026",
+    "file": "storm cleanup at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and storm cleanup from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, uncle ray, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2011-027",
+    "file": "storm cleanup at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and storm cleanup from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, uncle ray, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2017-028",
+    "file": "storm cleanup at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and storm cleanup from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, uncle ray, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-1998-029",
+    "file": "storm cleanup at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and storm cleanup from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, older sister, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2004-030",
+    "file": "storm cleanup at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and storm cleanup from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, older sister, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2011-031",
+    "file": "storm cleanup at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and storm cleanup from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, older sister, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2017-032",
+    "file": "storm cleanup at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and storm cleanup from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, older sister, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-1998-033",
+    "file": "storm cleanup at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and storm cleanup from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, neighbor tom, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2004-034",
+    "file": "storm cleanup at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and storm cleanup from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2004"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, neighbor tom, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2011-035",
+    "file": "storm cleanup at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and storm cleanup from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, neighbor tom, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2017-036",
+    "file": "storm cleanup at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and storm cleanup from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, neighbor tom, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-1998-037",
+    "file": "storm cleanup at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and storm cleanup from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, coach lewis, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2004-038",
+    "file": "storm cleanup at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and storm cleanup from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, coach lewis, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2011-039",
+    "file": "storm cleanup at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and storm cleanup from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, coach lewis, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-storm-cleanup-2017-040",
+    "file": "storm cleanup at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and storm cleanup from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "storm cleanup",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, storm cleanup, coach lewis, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-1998-041",
+    "file": "road trip at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and road trip from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, grandmother, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2004-042",
+    "file": "road trip at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and road trip from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, grandmother, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2011-043",
+    "file": "road trip at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and road trip from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, grandmother, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2017-044",
+    "file": "road trip at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and road trip from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, grandmother, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-1998-045",
+    "file": "road trip at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and road trip from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, uncle ray, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2004-046",
+    "file": "road trip at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and road trip from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, uncle ray, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2011-047",
+    "file": "road trip at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and road trip from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, uncle ray, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2017-048",
+    "file": "road trip at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and road trip from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, uncle ray, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-1998-049",
+    "file": "road trip at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and road trip from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, older sister, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2004-050",
+    "file": "road trip at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and road trip from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, older sister, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2011-051",
+    "file": "road trip at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and road trip from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2011"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, older sister, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2017-052",
+    "file": "road trip at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and road trip from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, older sister, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-1998-053",
+    "file": "road trip at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and road trip from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, neighbor tom, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2004-054",
+    "file": "road trip at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and road trip from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, neighbor tom, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2011-055",
+    "file": "road trip at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and road trip from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, neighbor tom, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2017-056",
+    "file": "road trip at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and road trip from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, neighbor tom, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-1998-057",
+    "file": "road trip at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and road trip from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, coach lewis, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2004-058",
+    "file": "road trip at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and road trip from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, coach lewis, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2011-059",
+    "file": "road trip at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and road trip from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, coach lewis, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-road-trip-2017-060",
+    "file": "road trip at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and road trip from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "road trip",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, road trip, coach lewis, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-1998-061",
+    "file": "graduation day at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and graduation day from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, grandmother, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2004-062",
+    "file": "graduation day at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and graduation day from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, grandmother, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2011-063",
+    "file": "graduation day at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and graduation day from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, grandmother, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2017-064",
+    "file": "graduation day at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and graduation day from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, grandmother, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-1998-065",
+    "file": "graduation day at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and graduation day from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, uncle ray, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2004-066",
+    "file": "graduation day at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and graduation day from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, uncle ray, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2011-067",
+    "file": "graduation day at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and graduation day from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, uncle ray, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2017-068",
+    "file": "graduation day at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and graduation day from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2017"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, uncle ray, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-1998-069",
+    "file": "graduation day at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and graduation day from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, older sister, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2004-070",
+    "file": "graduation day at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and graduation day from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, older sister, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2011-071",
+    "file": "graduation day at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and graduation day from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, older sister, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2017-072",
+    "file": "graduation day at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and graduation day from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, older sister, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-1998-073",
+    "file": "graduation day at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and graduation day from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, neighbor tom, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2004-074",
+    "file": "graduation day at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and graduation day from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, neighbor tom, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2011-075",
+    "file": "graduation day at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and graduation day from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, neighbor tom, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2017-076",
+    "file": "graduation day at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and graduation day from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, neighbor tom, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-1998-077",
+    "file": "graduation day at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and graduation day from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, coach lewis, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2004-078",
+    "file": "graduation day at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and graduation day from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, coach lewis, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2011-079",
+    "file": "graduation day at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and graduation day from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, coach lewis, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-graduation-day-2017-080",
+    "file": "graduation day at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and graduation day from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "graduation day",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, graduation day, coach lewis, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-1998-081",
+    "file": "market morning at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and market morning from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, grandmother, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2004-082",
+    "file": "market morning at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and market morning from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, grandmother, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2011-083",
+    "file": "market morning at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and market morning from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, grandmother, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2017-084",
+    "file": "market morning at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links grandmother, the kitchen, and market morning from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, grandmother, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-1998-085",
+    "file": "market morning at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and market morning from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "1998"
+    ],
+    "flagged": true,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, uncle ray, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2004-086",
+    "file": "market morning at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and market morning from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, uncle ray, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2011-087",
+    "file": "market morning at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and market morning from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, uncle ray, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2017-088",
+    "file": "market morning at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links uncle ray, the kitchen, and market morning from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, uncle ray, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-1998-089",
+    "file": "market morning at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and market morning from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, older sister, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2004-090",
+    "file": "market morning at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and market morning from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, older sister, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2011-091",
+    "file": "market morning at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and market morning from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, older sister, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2017-092",
+    "file": "market morning at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links older sister, the kitchen, and market morning from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, older sister, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-1998-093",
+    "file": "market morning at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and market morning from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, neighbor tom, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2004-094",
+    "file": "market morning at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and market morning from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, neighbor tom, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2011-095",
+    "file": "market morning at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and market morning from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, neighbor tom, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2017-096",
+    "file": "market morning at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links neighbor tom, the kitchen, and market morning from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, neighbor tom, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-1998-097",
+    "file": "market morning at the kitchen — 1998",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and market morning from 1998. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "1998"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, coach lewis, 1998",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2004-098",
+    "file": "market morning at the kitchen — 2004",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and market morning from 2004. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2004"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, coach lewis, 2004",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2011-099",
+    "file": "market morning at the kitchen — 2011",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and market morning from 2011. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2011"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, coach lewis, 2011",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
+  },
+  {
+    "id": "memory-kitchen-market-morning-2017-100",
+    "file": "market morning at the kitchen — 2017",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "This memory links coach lewis, the kitchen, and market morning from 2017. The interesting part of the demo is how one memory becomes easier to retrieve once many related moments exist together.",
+    "tags": [
+      "kitchen",
+      "market morning",
+      "2017"
+    ],
+    "flagged": false,
+    "demo": true,
+    "outputs": [
+      "memory note",
+      "linked memory",
+      "atlas search"
+    ],
+    "outputNotes": {},
+    "outputLinks": {},
+    "searchSummary": "kitchen, market morning, coach lewis, 2017",
+    "whyItMatters": "The atlas starts to feel real when a search can surface connected memories instead of returning a single note.",
+    "searchIntro": "Search across many seeded memories to see recurring places, people, and events connect into an atlas.",
+    "searchOutputs": [
+      "linked memory",
+      "atlas search"
+    ]
   }
 ]
