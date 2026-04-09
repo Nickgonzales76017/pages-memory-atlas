@@ -1,0 +1,56 @@
+[
+  {
+    "id": "demo-memory-atlas-a",
+    "file": "2024-11-porch-note.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "Memory links a late-night porch conversation with two recurring themes: wanting slower mornings and building things that feel humane instead of extractive. Related notes point to product direction, neighborhood belonging, and a recurring image of warm light through old windows.",
+    "tags": [
+      "belonging",
+      "product-direction",
+      "reflection"
+    ],
+    "flagged": true,
+    "demo": true,
+    "searchSummary": "travel note, family memory, linked events",
+    "whyItMatters": "One memory becomes part of a connected search surface.",
+    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-memory-atlas-b",
+    "file": "Related 2024-11-porch-note.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "tags": [
+      "belonging",
+      "product-direction",
+      "related"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "related signals, continuity, reuse",
+    "whyItMatters": "One memory becomes part of a connected search surface.",
+    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  },
+  {
+    "id": "demo-memory-atlas-c",
+    "file": "Follow-up 2024-11-porch-note.md",
+    "time": "Demo dataset",
+    "status": "complete",
+    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "tags": [
+      "belonging",
+      "product-direction",
+      "follow-up"
+    ],
+    "flagged": false,
+    "demo": true,
+    "searchSummary": "follow-up, memory, downstream action",
+    "whyItMatters": "One memory becomes part of a connected search surface.",
+    "searchIntro": "One memory becomes part of a connected search surface. Search across the seeded records to feel that inside the app.",
+    "searchOutputs": []
+  }
+]
