@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Personal Memory Atlas</title>
+  <title>Organize recordings and memories</title>
   <style>
     :root {
       --bg: #0a0a0a; --fg: #e0e0e0; --accent: #ff6600;
@@ -124,10 +124,10 @@
 </style>
 </head>
 <body>
-<nav class="aurekai-network-nav" aria-label="Aurekai application network"><span><a href="https://nickgonzales76017.github.io/bonfyre/discover/"><strong>AUREKAI</strong></a> / Personal Memory Atlas</span><div><a href="https://nickgonzales76017.github.io/bonfyre/discover/">All 20 applications</a><a href="https://nickgonzales76017.github.io/bonfyre/blog/a-publisher-deserves-a-home/">Related research</a><a href="https://nickgonzales76017.github.io/bonfyre/fieldwork/">Fieldwork stories</a></div></nav>
+<nav class="aurekai-network-nav" aria-label="Aurekai application network"><span><a href="https://nickgonzales76017.github.io/bonfyre/discover/"><strong>AUREKAI</strong></a> / Organize recordings and memories</span><div><a href="https://nickgonzales76017.github.io/bonfyre/discover/">All 20 applications</a><a href="https://nickgonzales76017.github.io/bonfyre/blog/a-publisher-deserves-a-home/">Related research</a><a href="https://nickgonzales76017.github.io/bonfyre/fieldwork/">Fieldwork stories</a></div></nav>
   <div class="app">
     <header>
-      <h1>Personal Memory Atlas</h1>
+      <h1>Organize recordings and memories</h1>
       <span class="badge badge-demo" id="statusBadge">DEMO</span>
       <div class="header-right">
         <button class="btn btn-ghost" id="toggleDemoBtn" type="button">Hide Corpus</button>
@@ -290,7 +290,7 @@
           const text = await file.text();
           runBriefWasm(text, itemId);
         } else {
-          showWasmPreview('GitHub-native launch ready.\n\n1. Download the intake-ready copy.\n2. Upload it in the repo input folder using GitHub web UI.\n3. Commit on the configured branch.\n\nPersonal Memory Atlas will poll the public artifact outputs after that commit lands.');
+          showWasmPreview('GitHub-native launch ready.\n\n1. Download the intake-ready copy.\n2. Upload it in the repo input folder using GitHub web UI.\n3. Commit on the configured branch.\n\nThis page will check the public artifact outputs after that commit lands.');
         }
       } catch (err) { console.error('Intake preparation failed:', err); alert('Intake preparation failed: ' + err.message); hidePipeline(); }
     }
